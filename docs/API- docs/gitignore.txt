@@ -1,8 +1,3 @@
-Aquí tienes el archivo `.gitignore` optimizado para el proyecto MechBot 2.0x, basado en la estructura del repositorio y necesidades del plan de marketing:
-
-```gitignore
-# .gitignore para MechBot 2.0x
-
 # ━━━━━━━━━━━━━━━━━━━━━━
 # 📁 ARCHIVOS DEL SISTEMA
 # ━━━━━━━━━━━━━━━━━━━━━━
